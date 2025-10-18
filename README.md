@@ -1,4 +1,4 @@
-# muzaid-fathur-rahman
+# muzaidfathurrahman-prog
 
 # 💫 About Me:
 I’m currently working on<br>Improving my design and development portfolio<br>I’m looking to collaborate on<br>UI/UX design projects or simple web development tasks<br>I’m looking for help with<br>Learning best practices in GitHub and open-source contribution<br>I’m currently learning<br>HTML, CSS, and version control with Git<br>Ask me about<br>Canva design, content creation, or beginner-friendly digital tools<br>Fun fact<br>I can spend hours designing without realizing I skipped a meal 😆
